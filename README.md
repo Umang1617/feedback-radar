@@ -4,7 +4,6 @@
 
 ![Agent Skill](https://img.shields.io/badge/Agent_Skill-SKILL.md-6C47FF?style=flat-square)
 ![Analysis types](https://img.shields.io/badge/Analysis_types-9-2EA44F?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 Feedback Radar is an agent skill (a `SKILL.md` plus four reference files). Give it a game and it analyzes public community feedback from Reddit, YouTube, X/Twitter, Facebook, Instagram, forums and the web. It then writes a structured report with sentiment, ranked issues, platform-by-platform evidence and a mandatory Finding / Evidence / Source table.
 
