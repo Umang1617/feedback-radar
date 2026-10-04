@@ -103,7 +103,3 @@ feedback-radar/
 ## Credits
 
 Built by [Umang Srivastava](https://www.linkedin.com/in/umang1617/).
-
-## License
-
-[MIT](LICENSE)
